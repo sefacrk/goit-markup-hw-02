@@ -178,7 +178,14 @@
 .third-section {
   background-color: #F4F4FD
 }
-
+list-stra {
+  background-color: #FFFFFF;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+color: #2e2f42;
+}
 
 
 
