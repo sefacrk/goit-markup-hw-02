@@ -108,8 +108,7 @@
     color: #434455;
   }
   
-  .third-header,
-  .fourth-header {
+  .third-header {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -139,11 +138,19 @@
     color: #f4f4fd;
     letter-spacing: 0.02em;
   }
+  .fourth-header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+  }
   
  
   
   
-  .fourth-section .list .list-title {
+  .list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -151,7 +158,7 @@
     color: #2e2f42;
   }
   
-  .fourth-section .list .list-desc {
+ .list-desc {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
