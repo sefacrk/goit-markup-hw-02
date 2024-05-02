@@ -140,28 +140,10 @@
     letter-spacing: 0.02em;
   }
   
-  .btn-menu {
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #f4f4fd;
-    cursor: pointer;
-  }
+ 
   
-  .btn-menu:hover {
-    color: #ffffff;
-    background-color: #404bbf;
-  }
   
-  .btn-menu:focus {
-    color: #ffffff;
-    background-color: #404bbf;
-  }
-  
-  .fourth-section .list .list-title {
+  .list .list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -169,7 +151,7 @@
     color: #2e2f42;
   }
   
-  .fourth-section .list .list-desc {
+  .list .list-desc {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
